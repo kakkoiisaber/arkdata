@@ -18,7 +18,7 @@ output_dir = "assets"
 path_whitelist = [
     "spritepack/mixstory_kv_sprites",    # entry image
     "spritepack/mixstory_title_sprites", # story logo and title
-    "spritepack/mixstory_retro_bkg"        # story background
+    "spritepack/mixstory_retro_bkg",        # story background
     "avg/characters/",     # story character sprites
     "avg/bg/",         # story background images
     "avg/imgs/", # story images
