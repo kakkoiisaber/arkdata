@@ -16,10 +16,5 @@ output_dir = "assets"
 
 # Optional; an asset will only be processed if its path contains one of the paths in this list
 path_whitelist = [
-    "spritepack/mixstory_kv_sprites",    # entry image
-    "spritepack/mixstory_title_sprites", # story logo and title
-    "spritepack/mixstory_retro_bkg",        # story background
-    # "avg/characters/",     # story character sprites
-    # "avg/bg/",         # story background images
-    # "avg/imgs/", # story images
+    "audio/sound_beta_2/music/beta1_180603/m_sys_void"
 ]
