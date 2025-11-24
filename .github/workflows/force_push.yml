@@ -41,8 +41,8 @@ jobs:
           pip install git+https://github.com/akgcc/kawapack
           pip freeze
 
-      # - name: Update config with sounds
-      #   run: python append_sounds.py
+      - name: Update config with sounds
+        run: python append_bg_music.py
 
       - name: Set up Rust
         uses: dtolnay/rust-toolchain@stable
