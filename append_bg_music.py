@@ -10,7 +10,7 @@ def remove_redundant(text: str) -> str:
             text = text.replace(pattern, '')
     return text
 
-with requests.get('https://raw.githubusercontent.com/KakkoiiSaber/arknights_story_data/main/assets/zh_CN/audio_table.json') as r:
+with requests.get('https://raw.githubusercontent.com/KakkoiiSaber/arknights_story_data/main/assets/zh_CN/audio_data.json') as r:
     audio_table = r.json()
 
 music_list = []
