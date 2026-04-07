@@ -1,12 +1,12 @@
 {
-  "spritepack/mixstory_retro_bkg_sprites_5.ab": "77ae7b6f66e3f4af93be6824bae0162e",
-  "spritepack/mixstory_kv_sprites_2.ab": "4167ca5539e1610dbe8c50ebb0ad39f6",
   "spritepack/mixstory_retro_bkg_sprites_0.ab": "68fe97d6314a35de3e43f9a1fbf60b93",
-  "spritepack/mixstory_retro_bkg_sprites_1.ab": "f5c1990e2d030d3e4de3358eea88a50d",
-  "spritepack/mixstory_title_sprites_0.ab": "45159515c9bc940bd85db17698cd74e0",
+  "spritepack/mixstory_kv_sprites_2.ab": "c13193e212f960dbfce7e10237fd2543",
   "spritepack/mixstory_retro_bkg_sprites_4.ab": "944b6c97d7240ff243af15be59bbca61",
-  "spritepack/mixstory_kv_sprites_0.ab": "6c0ca818a78bbf99d2593c2dfd72a63b",
-  "spritepack/mixstory_retro_bkg_sprites_3.ab": "b9624855cae37c784f6038ddbf3c7aaf",
   "spritepack/mixstory_kv_sprites_1.ab": "3866dcd0937c2eb096c39af40278ba83",
-  "spritepack/mixstory_retro_bkg_sprites_2.ab": "0e4100a2574ebe55e8e9f71e39202bcf"
+  "spritepack/mixstory_retro_bkg_sprites_2.ab": "0e4100a2574ebe55e8e9f71e39202bcf",
+  "spritepack/mixstory_title_sprites_0.ab": "1478926b86c8576cb53e83d4ffb88949",
+  "spritepack/mixstory_retro_bkg_sprites_3.ab": "b9624855cae37c784f6038ddbf3c7aaf",
+  "spritepack/mixstory_kv_sprites_0.ab": "6c0ca818a78bbf99d2593c2dfd72a63b",
+  "spritepack/mixstory_retro_bkg_sprites_1.ab": "f5c1990e2d030d3e4de3358eea88a50d",
+  "spritepack/mixstory_retro_bkg_sprites_5.ab": "9d682183661f76528ba33b720b14c5ab"
 }
